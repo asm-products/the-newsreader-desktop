@@ -1,0 +1,12 @@
+J:\Github\NewsReader\Prototype1\Prototype1\bin\Debug\Prototype1.exe.config
+J:\Github\NewsReader\Prototype1\Prototype1\bin\Debug\Prototype1.exe
+J:\Github\NewsReader\Prototype1\Prototype1\bin\Debug\Prototype1.pdb
+J:\Github\NewsReader\Prototype1\Prototype1\obj\Debug\Prototype1.csprojResolveAssemblyReference.cache
+J:\Github\NewsReader\Prototype1\Prototype1\obj\Debug\Prototype1.Form1.resources
+J:\Github\NewsReader\Prototype1\Prototype1\obj\Debug\Prototype1.Properties.Resources.resources
+J:\Github\NewsReader\Prototype1\Prototype1\obj\Debug\Prototype1.csproj.GenerateResource.Cache
+J:\Github\NewsReader\Prototype1\Prototype1\obj\Debug\Prototype1.exe
+J:\Github\NewsReader\Prototype1\Prototype1\obj\Debug\Prototype1.pdb
+J:\Github\the-newsreader-desktop\Prototype1\Prototype1\bin\Debug\Prototype1.exe.config
+J:\Github\the-newsreader-desktop\Prototype1\Prototype1\obj\Debug\Prototype1.exe
+J:\Github\the-newsreader-desktop\Prototype1\Prototype1\obj\Debug\Prototype1.pdb

@@ -1,0 +1,2 @@
+http://feeds.foxnews.com/foxnews/latest
+http://feeds.feedburner.com/BreitbartFeed

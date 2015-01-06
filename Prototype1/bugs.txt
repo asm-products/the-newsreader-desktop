@@ -1,0 +1,6 @@
+fix refresh so that the screen is erased and it can start again 
+
+fix links 
+
+remove no title found or the likes 
+

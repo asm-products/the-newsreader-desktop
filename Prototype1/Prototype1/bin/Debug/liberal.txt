@@ -1,0 +1,2 @@
+http://www.huffingtonpost.com/feeds/index.xml
+http://rss.cnn.com/rss/cnn_topstories.rss
